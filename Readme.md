@@ -1,1 +1,2 @@
-![Screenshot 2024-05-25 051146](https://github.com/LonelyJonathan537/Random-Password-Generate-Tools/assets/170762469/20272036-6550-40fb-b7dc-8f21e22e287b)
+![Screenshot 2024-06-12 125513](https://github.com/LonelyJonathan537/Random-Password-Generate-Tools/assets/170762469/2c6864d2-4e23-4769-bf3b-e10fe85ade48)
+![Screenshot 2024-06-12 125805](https://github.com/LonelyJonathan537/Random-Password-Generate-Tools/assets/170762469/801440be-f32d-4a54-b782-6f4a3dce313f)
